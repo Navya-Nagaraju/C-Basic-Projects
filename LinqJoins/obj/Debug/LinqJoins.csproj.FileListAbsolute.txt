@@ -1,0 +1,7 @@
+C:\Users\NBGM\source\repos\LinqJoins\LinqJoins\bin\Debug\LinqJoins.exe.config
+C:\Users\NBGM\source\repos\LinqJoins\LinqJoins\bin\Debug\LinqJoins.exe
+C:\Users\NBGM\source\repos\LinqJoins\LinqJoins\bin\Debug\LinqJoins.pdb
+C:\Users\NBGM\source\repos\LinqJoins\LinqJoins\obj\Debug\LinqJoins.csproj.AssemblyReference.cache
+C:\Users\NBGM\source\repos\LinqJoins\LinqJoins\obj\Debug\LinqJoins.csproj.CoreCompileInputs.cache
+C:\Users\NBGM\source\repos\LinqJoins\LinqJoins\obj\Debug\LinqJoins.exe
+C:\Users\NBGM\source\repos\LinqJoins\LinqJoins\obj\Debug\LinqJoins.pdb

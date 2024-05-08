@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NBGM\\source\\repos\\LinqJoins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65D42D-D005-4F50-8F39-2BCE1D281ED5}|LinqJoins\\LinqJoins.csproj|c:\\users\\nbgm\\source\\repos\\linqjoins\\linqjoins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65D42D-D005-4F50-8F39-2BCE1D281ED5}|LinqJoins\\LinqJoins.csproj|solutionrelative:linqjoins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65D42D-D005-4F50-8F39-2BCE1D281ED5}|LinqJoins\\LinqJoins.csproj|c:\\users\\nbgm\\source\\repos\\linqjoins\\linqjoins\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65D42D-D005-4F50-8F39-2BCE1D281ED5}|LinqJoins\\LinqJoins.csproj|solutionrelative:linqjoins\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C65D42D-D005-4F50-8F39-2BCE1D281ED5}|LinqJoins\\LinqJoins.csproj|c:\\users\\nbgm\\source\\repos\\linqjoins\\linqjoins\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C65D42D-D005-4F50-8F39-2BCE1D281ED5}|LinqJoins\\LinqJoins.csproj|solutionrelative:linqjoins\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\NBGM\\source\\repos\\LinqJoins\\LinqJoins\\State.cs",
+              "RelativeDocumentMoniker": "LinqJoins\\State.cs",
+              "ToolTip": "C:\\Users\\NBGM\\source\\repos\\LinqJoins\\LinqJoins\\State.cs",
+              "RelativeToolTip": "LinqJoins\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:50:14.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\NBGM\\source\\repos\\LinqJoins\\LinqJoins\\Employee.cs",
+              "RelativeDocumentMoniker": "LinqJoins\\Employee.cs",
+              "ToolTip": "C:\\Users\\NBGM\\source\\repos\\LinqJoins\\LinqJoins\\Employee.cs",
+              "RelativeToolTip": "LinqJoins\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:50:01.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NBGM\\source\\repos\\LinqJoins\\LinqJoins\\Program.cs",
+              "RelativeDocumentMoniker": "LinqJoins\\Program.cs",
+              "ToolTip": "C:\\Users\\NBGM\\source\\repos\\LinqJoins\\LinqJoins\\Program.cs",
+              "RelativeToolTip": "LinqJoins\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:49:23.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
